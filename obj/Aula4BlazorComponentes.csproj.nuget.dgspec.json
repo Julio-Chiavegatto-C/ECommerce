@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julio\\OneDrive\\Documentos\\3Periodo\\PWA\\Aula4BlazorComponentes\\TrabalhoECommerce\\Aula4BlazorComponentes.csproj": {}
+    "C:\\Users\\Julio\\OneDrive\\Documentos\\3Periodo\\PWA\\TrabalhoECommerce\\Aula4BlazorComponentes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julio\\OneDrive\\Documentos\\3Periodo\\PWA\\Aula4BlazorComponentes\\TrabalhoECommerce\\Aula4BlazorComponentes.csproj": {
+    "C:\\Users\\Julio\\OneDrive\\Documentos\\3Periodo\\PWA\\TrabalhoECommerce\\Aula4BlazorComponentes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio\\OneDrive\\Documentos\\3Periodo\\PWA\\Aula4BlazorComponentes\\TrabalhoECommerce\\Aula4BlazorComponentes.csproj",
+        "projectUniqueName": "C:\\Users\\Julio\\OneDrive\\Documentos\\3Periodo\\PWA\\TrabalhoECommerce\\Aula4BlazorComponentes.csproj",
         "projectName": "Aula4BlazorComponentes",
-        "projectPath": "C:\\Users\\Julio\\OneDrive\\Documentos\\3Periodo\\PWA\\Aula4BlazorComponentes\\TrabalhoECommerce\\Aula4BlazorComponentes.csproj",
+        "projectPath": "C:\\Users\\Julio\\OneDrive\\Documentos\\3Periodo\\PWA\\TrabalhoECommerce\\Aula4BlazorComponentes.csproj",
         "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio\\OneDrive\\Documentos\\3Periodo\\PWA\\Aula4BlazorComponentes\\TrabalhoECommerce\\obj\\",
+        "outputPath": "C:\\Users\\Julio\\OneDrive\\Documentos\\3Periodo\\PWA\\TrabalhoECommerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

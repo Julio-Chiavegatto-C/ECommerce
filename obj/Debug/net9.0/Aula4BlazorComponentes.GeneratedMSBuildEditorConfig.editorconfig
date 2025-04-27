@@ -13,53 +13,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Aula4BlazorComponentes
 build_property.RootNamespace = Aula4BlazorComponentes
-build_property.ProjectDir = C:\Users\Julio\OneDrive\Documentos\3Periodo\PWA\Aula4BlazorComponentes\TrabalhoECommerce\
+build_property.ProjectDir = C:\Users\Julio\OneDrive\Documentos\3Periodo\PWA\TrabalhoECommerce\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Julio\OneDrive\Documentos\3Periodo\PWA\Aula4BlazorComponentes\TrabalhoECommerce
+build_property.MSBuildProjectDirectory = C:\Users\Julio\OneDrive\Documentos\3Periodo\PWA\TrabalhoECommerce
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/Aula4BlazorComponentes/TrabalhoECommerce/App.razor]
+[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/TrabalhoECommerce/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/Aula4BlazorComponentes/TrabalhoECommerce/Componentes/ProductCard.razor]
+[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/TrabalhoECommerce/Componentes/ProductCard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcUHJvZHVjdENhcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/Aula4BlazorComponentes/TrabalhoECommerce/Pages/Compras.razor]
+[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/TrabalhoECommerce/Pages/Compras.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcHJhcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/Aula4BlazorComponentes/TrabalhoECommerce/Pages/Contato.razor]
+[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/TrabalhoECommerce/Pages/Contato.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGF0by5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/Aula4BlazorComponentes/TrabalhoECommerce/Pages/Home.razor]
+[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/TrabalhoECommerce/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/Aula4BlazorComponentes/TrabalhoECommerce/Pages/Login.razor]
+[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/TrabalhoECommerce/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/Aula4BlazorComponentes/TrabalhoECommerce/Pages/Perfil.razor]
+[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/TrabalhoECommerce/Pages/Perfil.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyZmlsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/Aula4BlazorComponentes/TrabalhoECommerce/_Imports.razor]
+[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/TrabalhoECommerce/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/Aula4BlazorComponentes/TrabalhoECommerce/Layout/MainLayout.razor]
+[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/TrabalhoECommerce/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-cjbg8ffhkk
 
-[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/Aula4BlazorComponentes/TrabalhoECommerce/Layout/NavMenu.razor]
+[C:/Users/Julio/OneDrive/Documentos/3Periodo/PWA/TrabalhoECommerce/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-15owasgyho
